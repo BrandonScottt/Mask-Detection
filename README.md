@@ -1,1 +1,1 @@
-Mask Detection using Vision Transformer
+Mask Detection using Vision Transformer (ViT)
